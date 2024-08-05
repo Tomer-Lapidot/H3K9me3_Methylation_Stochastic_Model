@@ -42,3 +42,5 @@ Where N_0 is the number of modified nucleosomes at the end of the forward stage 
 A single simulation repeat is depicted below. On the left is activation, and right deactivation.
 ![Depiction of activation and deactivation of histone space. Time vs Histone Space](https://github.com/Tomer-Lapidot/H3K9me3_Methylation_Stochastic_Model/blob/main/Model_Results.png)
 
+Number of nucleosomes that are activated, and then deactivated over time,
+![](https://github.com/Tomer-Lapidot/H3K9me3_Methylation_Stochastic_Model/blob/main/Total_Nucleosomes_Over_Time.png)
