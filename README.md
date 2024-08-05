@@ -39,3 +39,6 @@ N=N_0  exp⁡(-a∆t)
 
 Where N_0 is the number of modified nucleosomes at the end of the forward stage (and therefore the beginning of the reverse stage), and a is the decay constant of the exponential curve. Fitting was done by linearization of exponential curve and performing a linear regression against the reverse stage simulation results. The simulation was repeated 2000 times for every k- and K pair, and curve parameters N_0 and a were fitted for every simulation repeat.
 
+A single simulation repeat is depicted below. On the left is activation, and right deactivation.
+![Depiction of activation and deactivation of histone space. Time vs Histone Space](https://github.com/Tomer-Lapidot/H3K9me3_Methylation_Stochastic_Model/blob/main/Model_Results.png)
+
